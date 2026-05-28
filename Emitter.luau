@@ -1,6 +1,11 @@
 --!strict
 --!optimize 2
 
+
+-- Discord - protobuben
+-- Roblox - protobuben
+
+
 -------------------------------------------------------
 -- Custom CPU particle simulator with physics
 --
